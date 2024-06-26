@@ -1,6 +1,6 @@
 # Asynchronous-TCL-control
 
-The following code corresponds to the semi-physical experimental part of the paper "Asynchronous Communication-Based Distributed Control Strategy for ON/OFF State Thermostatically Controlled Loads".
+The following code corresponds to the semi-physical experimental part of the paper 	**"Asynchronous Communication-Based Distributed Control Strategy for ON/OFF State Thermostatically Controlled Loads"**.
 
 main_AGG.mlx is the PC's code that simulates the aggregator. The PC is only responsible for issuing the number of TCLs that need to be turned on in total during this control process.
 
